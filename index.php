@@ -101,7 +101,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <span class="logo" style="color:white">Quizathon</span></div>
 <div class="col-md-2 col-md-offset-4">
   <br>
-<a href="#" <button class=" btn btn-primary pull-right" style= "position: relative; right: 10px;"data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>&nbsp;<span class="title1"><b>Signin</b></span></a></div>
+<a href="#" <button class=" btn btn-primary pull-right" style= "position: fixed; right: 30px;"data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>&nbsp;<span class="title1"><b>Signin</b></span></a></div>
 
 <!--sign in modal start-->
 <div class="modal fade" id="myModal">
